@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "136005612975",
+    "firebase_url": "https://mydb-b813b.firebaseio.com",
+    "project_id": "mydb-b813b",
+    "storage_bucket": "mydb-b813b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136005612975:android:9a82e4cb925e3373",
+        "android_client_info": {
+          "package_name": "com.biz.woo_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136005612975-o1bftidlbvh0f9gjp7r3lpumae985oog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLGH6oOGhaomaO322dp9W1sisNJGeQC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136005612975:android:37d4125252e482f5",
+        "android_client_info": {
+          "package_name": "com.cristal_inca.bsc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136005612975-o1bftidlbvh0f9gjp7r3lpumae985oog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLGH6oOGhaomaO322dp9W1sisNJGeQC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136005612975:android:8ee8402e7becf2cc",
+        "android_client_info": {
+          "package_name": "com.cristal_inca.friebase_ashor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136005612975-o1bftidlbvh0f9gjp7r3lpumae985oog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLGH6oOGhaomaO322dp9W1sisNJGeQC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136005612975:android:1a3afa59cd4ccbc6",
+        "android_client_info": {
+          "package_name": "com.cristal_inca.google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136005612975-o1bftidlbvh0f9gjp7r3lpumae985oog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLGH6oOGhaomaO322dp9W1sisNJGeQC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
